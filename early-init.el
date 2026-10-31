@@ -1,7 +1,7 @@
 ;;; early-init.el --- Early initialization for Emacs -*- lexical-binding: t; -*-
 
 ;;; Commentary:
-;; Early-init settings for emacs-app (Emacs 30.2) on macOS.
+;; Early-init settings for emacs-app (Emacs 31.1) on macOS.
 ;; Runs before the package system and GUI are initialized.
 ;;; Code:
 
